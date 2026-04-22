@@ -1,9 +1,9 @@
 {
-  "name": "esa-proxy",
+  "name": "gzeta",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'No build step needed'"
+    "build": "echo 'No build needed'"
   }
 }
